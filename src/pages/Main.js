@@ -257,7 +257,7 @@ export default function Main() {
     }
     const getDataListRegionGlobal = () => { // Merupakan function untuk mengambil  data ksus hrian global per negara
         setLoadingRegion(true)  // merubah nilai dari state loaingRegion menjadi true 
-        fetch(API_COVID19_GLOBAL + "/api/confirmed")  // memanggil http klien "fecth" untuk memanggil data dari url "https://covid19.mathdro.id/api/confirmed
+        fetch(API_COVID19_GLOBAL + "api/confirmed")  // memanggil http klien "fecth" untuk memanggil data dari url "https://covid19.mathdro.id/api/confirmed
             .then(response => response.json()) // Mengubah hasil fecth menjadi JSON
             .then(data => {
                 var list = data.map((item, index) => {
