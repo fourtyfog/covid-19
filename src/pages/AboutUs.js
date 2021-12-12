@@ -7,7 +7,7 @@ function AboutUs() {
 
       <div className="row">
         <div className="col-12">
-           <p className="mb-5 fw-bold text-center fs-3">About Us</p>
+           <p className="mb-5 fw-bold text-center fs-3">About Us - Kelompok 4</p>
            
         </div>
       </div>
