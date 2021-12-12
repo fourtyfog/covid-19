@@ -7,7 +7,7 @@ function ContactUs() {
       <div className="row">
         <div className="col-12">
            <p className="mb-0 fw-bold text-center fs-3">Contact Us</p>
-           <p className="mb-5 fw-600 text-center fs-5">Have any question? We'd love to hear you</p>
+           <p className="mb-5 fw-600 text-center fs-5">Have any question? We'd love to hear yours</p>
         </div>
       </div>
       <div className="row">
