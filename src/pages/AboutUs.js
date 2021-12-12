@@ -13,14 +13,14 @@ function AboutUs() {
       </div>
       <div className="row text-center">
         <div className="col-12 col-md-6">
-          <img className="rounded-circle mb-2" width="140" height="140"  role="img" src="images/charlie.jpg"/>
+          <img className="rounded-circle mb-2" width="140" height="140"  role="img" src="charlie.jpg"/>
 
           <h2>Nama</h2>
           <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
         </div>
 
         <div className="col-12 col-md-6">
-         <img className="rounded-circle mb-2" width="140" height="140"  role="img" src="images/henry.jpg"/>
+         <img className="rounded-circle mb-2" width="140" height="140"  role="img" src="henry.jpg"/>
 
           <h2>Nama</h2>
           <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
